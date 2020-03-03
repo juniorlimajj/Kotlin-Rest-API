@@ -1,3 +1,4 @@
 # Kotlin Rest API
-- Implementation of a rest api with kotlin + spring boot
 
+- A simple implementation of a rest api writen in Kotlin + Spring
+- Clone, complete the tests and enjoy
